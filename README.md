@@ -1,1 +1,1 @@
-this is a team project done by Lerato kgodumo and Olwethu Radebe
+This is a team project done by Lerato kgodumo and Olwethu Radebe
