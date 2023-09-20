@@ -1,2 +1,5 @@
 *.out
-*test*
+*test
+TEST_SUITES
+allowed_functions
+runchecker.bash
